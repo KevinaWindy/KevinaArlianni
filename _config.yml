@@ -1,7 +1,8 @@
-title: Kevina's Website # your name (or website title) here
+title: <p align="center">Kevina's Website </p>
+
 logo: "/images/Picture1.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Welcometo my site  
+
+description: > 
   <br><br>
   <p align="center">
   <a href="https://www.linkedin.com/in/kevina-windy-arlianni-6581271b4/">LinkedIn</a> 
