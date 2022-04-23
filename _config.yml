@@ -3,7 +3,17 @@ logo: "/images/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Welcometo my site  
   <br><br>
+  <p align="center">
   <a href="https://www.linkedin.com/in/kevina-windy-arlianni-6581271b4/">View My LinkedIn Profile</a> 
+    <a href="https://github.com/kevinawindy">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am pursing MS degree in Statistics at Institut Teknologi Sepuluh Nopember.
+  <br><br>
+  I’m interested in Data and Statistics. Passionate about studying how to improve performance.
+  <br><br>
+  </p>
 
 owner:
   name:           Kevina Windy Arlianni
