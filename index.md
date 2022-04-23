@@ -16,7 +16,7 @@
 
 <div style="text-align: justify">In this project I am going to perform classify iris data based on variable sepal and petal sizes using Neural Network, then make a prediction with the accuracy around 97%.</div>
 <br>
-<center><img src="images/breast-cancer.png"/></center>
+<center><img src="images/NN.png"/></center>
 <br>
 
 [Project 2 Title](/pdf/sample_presentation.pdf)
