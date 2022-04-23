@@ -3,7 +3,6 @@ title: <p align="center">Kevina's Website </p>
 logo: "/images/Picture1.png?raw=true" # your photo (or logo) here
 
 description: > 
-  <br><br>
   <p align="center">
   <a href="https://www.linkedin.com/in/kevina-windy-arlianni-6581271b4/">LinkedIn</a> 
   <a href="https://github.com/kevinawindy">GitHub</a>
@@ -13,7 +12,7 @@ description: >
   I’m interested in Statistics and Programming
   <br><br>
   I am currently learning in Institut Teknologi Sepuluh Nopember pursuing Statistics Bachelor Degree.
-    <br><br>
+  <br><br>
   </p>
 
 theme: jekyll-theme-minimal
