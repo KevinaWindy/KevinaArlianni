@@ -3,9 +3,11 @@
 ---
 
 ### Category Name 1 
+### Classification Google Play Store Rating with Naïve Bayes, Random Forest dan K-Means in R
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/KevinaWindy/Business-Analitics)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<div style="text-align: justify">In this project I am going to perform comprehensive EDA on Google Play Store Rating dataset, then clasify the data using Naïve Bayes, Random Forest dan K-Means model to see accuracy classfication based on Price, Review, Size, and Installs.</div>
+<br>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
