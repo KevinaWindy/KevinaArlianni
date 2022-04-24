@@ -13,7 +13,7 @@
 ---
 ### Analysis Iris Dataset with Neural Network using Python
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](NN.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/NN.html)
 
 <div style="text-align: justify">In this project I am going to perform classify iris data based on variable sepal and petal sizes using Neural Network, then make a prediction with the accuracy around 97%.</div>
 <br>
